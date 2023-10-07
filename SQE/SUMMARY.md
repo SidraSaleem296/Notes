@@ -7,4 +7,5 @@
   * [Chapter 4](book/chapter-4.md)
   * [Chapter 6](book/chapter-6.md)
   * [Chapter 7](book/chapter-7.md)
+  * [Chapter 8](book/chapter-8.md)
 * [Lecture 1](lecture-1.md)
