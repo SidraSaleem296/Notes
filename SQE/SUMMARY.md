@@ -8,4 +8,6 @@
   * [Chapter 6](book/chapter-6.md)
   * [Chapter 7](book/chapter-7.md)
   * [Chapter 8](book/chapter-8.md)
+  * [Chapter 9](book/chapter-9.md)
+  * [Chapter 11](book/chapter-11.md)
 * [Lecture 1](lecture-1.md)

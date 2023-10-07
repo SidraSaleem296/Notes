@@ -68,7 +68,7 @@ Management reviews are periodic meetings dedicated to quality issues. These revi
 
 Typical items included in management review reports are presented in Frame 4.4, and the main objectives of management reviews are to ensure compliance with quality policies, assess SQA system performance, initiate improvements, and guide future actions. Decisions made during these reviews shape the operation of the SQA system until the next review.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

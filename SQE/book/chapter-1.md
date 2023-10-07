@@ -210,7 +210,7 @@ _**Section 4**_
 
 * Figure 1.1 depicts the relationships between software errors, faults, and failures.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Customer usage characteristics act as a "failure filter."
 
@@ -284,7 +284,7 @@ _**Section 5**_
 
 * The nine causes of software errors are presented in Frame 1.7. 📋🔍
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 🔑 **Key Takeaways:**
 
