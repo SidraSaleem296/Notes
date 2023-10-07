@@ -1,6 +1,8 @@
-# Chapter 2
+---
+description: 'Chapter 2: Software Quality Factors (Attributes) 📊'
+---
 
-_**Chapter 2: Software Quality Factors (Attributes) 📊**_
+# Chapter 2
 
 _**Section 1:**_
 

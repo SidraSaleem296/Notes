@@ -1,8 +1,12 @@
+---
+description: 'Chapter 1: SQA – Definitions and Concepts 📚'
+---
+
 # Chapter 1
 
-Chapter 1: SQA – Definitions and Concepts 📚
-
 _**Section 1**_
+
+_**Section 1:**_
 
 1.1 Software Quality and Software Quality Assurance - Definitions 🧐
 
@@ -56,10 +60,6 @@ _**Section 1**_
 * Objectivity and independence are key attributes of SQA.
 * SQA can be extended to cover both the development process and operation services, including schedule and budget adherence.
 
-
-
-
-
 _**Section 2**_
 
 Chapter 1: SQA – Definitions and Concepts 📚 (Continued)
@@ -100,10 +100,6 @@ Chapter 1: SQA – Definitions and Concepts 📚 (Continued)
 * Documentation supports developers, maintenance staff, and end-users.
 * Data is crucial for software operation and maintenance, including standard test data.
 * Procedures define the order of operations and handle malfunctions.
-
-
-
-
 
 _**Section 3**_
 
@@ -159,9 +155,7 @@ _**Section 3**_
 * Decision-making should rely on factual information.
 * Collaborative supplier relationships benefit organizational performance.
 
-
-
-_**Section 4**_&#x20;
+_**Section 4**_
 
 **1.4 Software Errors, Faults, and Failures** ❌🛠️
 
@@ -227,10 +221,6 @@ _**Section 4**_&#x20;
 * Not all errors become faults; some do not affect functionality.
 * Faults become failures when activated by specific conditions or user actions.
 * Customer usage characteristics determine which faults become failures.
-
-
-
-
 
 _**Section 5**_
 
@@ -302,8 +292,6 @@ _**Section 5**_
 * Causes of software errors can be classified based on the stages of the development process in which they occur.
 * The nine classes of software error causes include faulty requirements definition, communication failures, deliberate deviations, design errors, coding errors, noncompliance with standards, testing process shortcomings, user interface and procedure errors, and documentation errors.
 
-
-
 _**Section 6**_
 
 **1.6 Software Quality Assurance vs. Software Quality Control** 📊🔍
@@ -342,10 +330,6 @@ _**Section 6**_
 * SQC focuses on evaluating the final software product's quality.
 * SQA includes infrastructure activities and actions throughout development to minimize quality assurance costs, prevent errors, and improve overall software quality.
 
-
-
-
-
 _**Section 7**_
 
 **1.7 Software Quality Engineering and Software Engineering** 🌐🛠️
@@ -374,8 +358,6 @@ _**Section 7**_
 * Software engineering involves applying systematic and disciplined approaches to software development and maintenance.
 * Software quality engineering complements software engineering by developing quality assurance methodologies, procedures, and tools.
 * Collaboration between software engineering and software quality engineering is essential for effective software development and maintenance.
-
-
 
 _**Summary (Chapter 1)**_
 
@@ -416,8 +398,6 @@ This chapter provides essential definitions and concepts related to Software Qua
 * SQA practices are intertwined with software engineering, influencing tool selection, development activities, and the overall development infrastructure.
 
 These foundational concepts lay the groundwork for understanding software quality assurance and its role in ensuring the quality of software products.
-
-
 
 _**Review Questions**_
 
@@ -531,4 +511,3 @@ _<mark style="color:purple;">**b. In what way can SQC be considered part of SQA?
 **Answer:** SQC can be considered as a subset or integral part of SQA. While SQC primarily focuses on evaluating the quality of the final software product, SQA encompasses a broader range of activities and objectives. SQA includes systematic planning, process improvement, and ongoing quality management throughout the entire software development lifecycle. SQC activities, such as testing and inspection, contribute to SQA's overall goal of ensuring that software development processes are well-defined, efficient, and effective.
 
 In essence, SQC activities align with the SQA principle of verifying conformance to technical requirements, which is one aspect of ensuring software quality. Therefore, SQC is a component of SQA, working in tandem with other SQA activities to achieve comprehensive software quality objectives. 🤝📊
-
