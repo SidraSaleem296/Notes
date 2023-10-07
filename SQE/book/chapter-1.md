@@ -6,8 +6,6 @@ description: 'Chapter 1: SQA – Definitions and Concepts 📚'
 
 _**Section 1**_
 
-_**Section 1:**_
-
 1.1 Software Quality and Software Quality Assurance - Definitions 🧐
 
 **Software Quality - A Definition**
