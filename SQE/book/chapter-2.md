@@ -124,7 +124,7 @@ _Product transition factors_:
 
 McCall’s model and its categories are illustrated in McCall’s model of software quality factors tree:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![McCall’s software quality factor model tree](https://chat.openai.com/c/Image\_Link\_Here)
 
@@ -389,7 +389,7 @@ Table 2.2 ISO/IEC 25010 product quality model factors and criteria (subfactors)
 
 Table 2.3 Factors and criteria of Alternative quality models (For factors not included in McCall/s and ISO/IEC 25010 quality models)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 🔗 Criteria often overlap and contribute to successful compliance across multiple factors, highlighting the interconnected nature of software quality factors.
 
