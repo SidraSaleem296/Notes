@@ -1,6 +1,16 @@
 # Table of contents
 
 * [Software Process Improvement](README.md)
+* [Lecture 9](lecture-9/README.md)
+  * [🛠 Q\&A](lecture-9/q-and-a.md)
+* [Lecture 8](lecture-8/README.md)
+  * [🛠 Q\&A](lecture-8/q-and-a.md)
+* [Lecture 7](lecture-7/README.md)
+  * [🛠 Q\&A](lecture-7/q-and-a.md)
+* [Lecture 6](lecture-6/README.md)
+  * [🛠 Q\&A](lecture-6/q-and-a.md)
+* [Lecture 5](lecture-5/README.md)
+  * [🛠 Q\&A](lecture-5/q-and-a.md)
 * [Lecture 1](lecture-1/README.md)
   * [🛠 Q\&A](lecture-1/q-and-a.md)
 * [Lecture 2](lecture-2/README.md)
