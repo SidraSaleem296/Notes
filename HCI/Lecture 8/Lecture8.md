@@ -68,6 +68,3 @@ Usability can be measured using various metrics, such as:
 2. Usability testing should include individuals with disabilities to evaluate accessibility.
 3. Proper structure, clear navigation, and readable content benefit all users, including those with disabilities.
 4. Accessible design ensures that people with various impairments can use a website.
-
-Remember that effective web design considers both usability and accessibility, making the site user-friendly for everyone. 🌐💻✨
-
