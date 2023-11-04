@@ -8,5 +8,6 @@
   * [🛠 Q\&A](lecture-3/q-and-a.md)
 * [Lecture 8](lecture-8.md)
 * [Lecture 9](lecture-9.md)
-* [Lecture 4](lecture-4.md)
+* [Lecture 4](lecture-4/README.md)
+  * [🛠 Q\&A](lecture-4/q-and-a.md)
 * [Lecture 7](lecture-7.md)
