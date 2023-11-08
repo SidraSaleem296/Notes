@@ -20,3 +20,8 @@
   * [🛠 Q\&A](lecture-3/q-and-a.md)
 * [Lecture 4](lecture-4/README.md)
   * [🛠 Q\&A1](lecture-4/q-and-a1.md)
+* [Lecture 16](lecture-16.md)
+* [Lecture 14-15](lecture-14-15.md)
+* [Lecture 13](lecture-13.md)
+* [Lecture 12](lecture-12.md)
+* [Lecture 11](lecture-11.md)
