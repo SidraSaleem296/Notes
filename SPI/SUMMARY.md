@@ -26,3 +26,4 @@
 * [Lecture 12](lecture-12.md)
 * [Lecture 11](lecture-11.md)
 * [Lecture 18](lecture-18.md)
+* [Lecture 17](lecture-17.md)
