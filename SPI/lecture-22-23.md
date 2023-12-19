@@ -256,8 +256,3 @@
   * Selene: Feedback from process performers and issue reports.
   * Soster: Detailed analysis for improvement planning.
 
-\
-
-
-
-
