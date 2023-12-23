@@ -2,6 +2,7 @@
 
 * [Software Quality Engineering](README.md)
 * [Book](book/README.md)
+  * [Chapter 22](book/chapter-22.md)
   * [Chapter 1](book/chapter-1.md)
   * [Chapter 2](book/chapter-2.md)
   * [Chapter 4](book/chapter-4.md)
