@@ -14,3 +14,6 @@
 * [Lecture 1](lecture-1.md)
 * [Chapter 21](chapter-21.md)
 * [Reviews](reviews.md)
+* [Total-Quality-Management](total-quality-management.md)
+* [Testing](testing.md)
+* [Software Product Quality Matrices](software-product-quality-matrices.md)

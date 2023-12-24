@@ -32,7 +32,7 @@ _**Section 2:**_
 * Evaluating financial damages from software failures to adjust the SQA budget.
 * Assessing plans for SQA activity changes or investments in infrastructure.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 🔍 Managerial control over CoSQ involves comparing actual performance with budgets, previous failure costs, previous project quality costs, and costs from other departments.
 
@@ -122,7 +122,7 @@ The scope of the Cost of Software Quality (CoSQ) as a part of overall software p
 
 **Table 9.1: CoSQ According to CMM Levels**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * CMM Level 1: CoSQ is 60% of total software product costs, with prevention costs accounting for 2%, appraisal costs for 4%, internal failure costs for 22%, and external failure costs for 32%.
 * CMM Level 2: CoSQ is 57% of total software product costs, with prevention costs accounting for 2%, appraisal costs for 10%, internal failure costs for 25%, and external failure costs for 20%.
@@ -134,7 +134,7 @@ These results indicate that organizations with higher SQA levels tend to have a 
 
 **Table 9.2: CoSQ for American and European Projects (Averages)**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * American Software Development Projects: CoSQ averages 57.5% of total software product costs, with prevention costs accounting for 13.5%, appraisal costs for 16%, and internal and external failure costs for 28%.
 * European Software Development Projects: CoSQ averages 67.7% of total software product costs, with prevention costs accounting for 8.7%, appraisal costs for 26.3%, and internal and external failure costs for 32.7%.
@@ -160,7 +160,7 @@ _**Section 4:**_
 | **Managerial Internal Failure Costs**               | Costs incurred throughout development due to managerial failures, affecting project resources and schedule.               |
 | **Managerial External Failure Costs**               | Costs incurred after project completion due to managerial failures, affecting project delivery and customer satisfaction. |
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 This extended model incorporates managerial costs, which are specific to the software industry, and includes both prevention and appraisal activities carried out by management. It also addresses the impact of managerial decisions on project outcomes, including both internal and external failure costs.
 
@@ -168,7 +168,7 @@ This extended model incorporates managerial costs, which are specific to the sof
 
 _**Section 6:**_
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 To successfully apply a cost of software quality (CoSQ) system in an organization, several steps need to be followed:
 
@@ -192,7 +192,7 @@ To successfully apply a cost of software quality (CoSQ) system in an organizatio
 * Process collected CoSQ data, including classification, recording, and verification.
 * Continuously update and revise cost item definitions and reporting methods based on feedback.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Actions Taken in Response to Findings**:
 
@@ -204,7 +204,7 @@ To successfully apply a cost of software quality (CoSQ) system in an organizatio
 
 Table 9.4 provides examples of typical decisions and their expected results based on CoSQ analysis.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 The implementation of a CoSQ system is a continuous process that involves data collection, analysis, and decision-making to improve software quality and cost-effectiveness. Regular reviews and adjustments to the system are essential for its effectiveness.
 
@@ -297,7 +297,7 @@ Unique Characteristics of Software: Software development complexity and manageri
 
 <table><thead><tr><th>No.</th><th data-hidden>Expenditure Item</th><th data-hidden>Subclass of Software Quality Cost</th><th data-hidden>Non-Software Quality Cost</th></tr></thead><tbody><tr><td>1</td><td>Working hours spent installing software at customer’s site in Singapore</td><td>EFC</td><td></td></tr><tr><td>2</td><td>Waiving of customer’s debt as agreed to in compromise following software failures detected in the installed software</td><td>EFC</td><td></td></tr><tr><td>3</td><td>Payment for Dr. Jacobs’s participation in a design review</td><td>AC</td><td></td></tr><tr><td>4</td><td>Payments made to “King SQA Consultants” for preparing the new version of the software quality procedures</td><td>MPC</td><td></td></tr><tr><td>5</td><td>Repair of a color printer</td><td>X</td><td>X</td></tr><tr><td>6</td><td>Working hours spent participating in monthly meetings of the Coordination and Control Committee headed by the Department Manager</td><td>MPC</td><td></td></tr><tr><td>7</td><td>Travel to Switzerland to examine advanced software testing system proposed to the company</td><td>MPC</td><td></td></tr><tr><td>8</td><td>Purchase of barcode sticker software package to be integrated in the inventory management software system</td><td>PC</td><td></td></tr><tr><td>9</td><td>Working hours spent correcting errors listed in a design review report</td><td>IFC</td><td></td></tr><tr><td>10</td><td>Customer’s compensation for delay in schedule resulting from the company’s inability to recruit sufficient professional manpower for the development team</td><td>EFC</td><td></td></tr><tr><td>11</td><td>Working hours spent by the Chief Software Engineer and Martin Fountain, Senior Project Manager, in examining the schedule estimates for the “Top Assets” tender</td><td>MPC</td><td></td></tr><tr><td>12</td><td>Working hours spent in preparation of an updated version of Leonard Software’s C Programming Instructions</td><td>PC</td><td></td></tr><tr><td>13</td><td>Working hours spent by programmer (John) in correcting program bugs detected by his team leader in their weekly meeting</td><td>IFC</td><td></td></tr></tbody></table>
 
-9.5 ![](<../.gitbook/assets/image (7).png>)
+9.5 ![](<../.gitbook/assets/image (7) (1).png>)
 
 a. Financial Examination of the Proposal:
 

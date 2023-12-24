@@ -105,7 +105,7 @@ Standards like ISO/IEC Std. 90003:2014 and IEEE Std. 730-2014 provide guidelines
 
 The objectives of documentation control processes, as outlined in Frame 11.3
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 These objectives ensure that documents are high-quality, structured correctly, available when needed, and valuable for addressing software issues. 🧾✅🔒📂
 

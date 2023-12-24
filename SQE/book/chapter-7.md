@@ -90,7 +90,7 @@ Section 3:
 15. **Staff Skills Assessment:** 🧑‍🎓
     * Identify skill gaps and develop training programs.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 These elements create a robust SQA plan that ensures quality throughout the software project lifecycle. 🌟👏
 

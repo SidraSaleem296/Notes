@@ -17,7 +17,7 @@ description: '📄 Chapter 8: Preproject Process – Contract Review'
 * Identifying pitfalls in the proposal and contract drafts.
 * Reducing undesirable contract situations.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 📊 Factors Affecting Contract Review Extent:
 
@@ -41,11 +41,11 @@ description: '📄 Chapter 8: Preproject Process – Contract Review'
 
 * Proposal draft review topics (Frame 8.2).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Contract draft review topics (Frame 8.3).
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Section 1: Case Study**_
 
@@ -130,7 +130,7 @@ _**Section 3:**_
 * The combined work of the proposal team and the contract review team is essential in preparing a proposal until it becomes a signed contract.
 * This integration helps ensure that all aspects of the contract are thoroughly reviewed and understood.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 By following the contract review process, software companies can minimize risks, prevent misunderstandings, and improve the chances of successful project completion. 💼🤝📝
 

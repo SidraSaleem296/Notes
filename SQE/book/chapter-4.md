@@ -41,7 +41,7 @@ Top management uses three main tools to fulfill these responsibilities:
 2. 👔 **Executive in Charge:** Assigning an executive, such as a Vice President of SQA, to be responsible for software quality issues.
 3. 📆 **Management Reviews:** Conducting regular management reviews to assess the organization's SQA system's compliance with quality policies, set quality objectives, initiate improvements, and address deficiencies.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.2.1 Software Quality Policy**
 
@@ -54,13 +54,13 @@ The software quality policy, defined by top management, serves as a guiding docu
 * 🔄 Be regularly reviewed and updated.
 * 📢 Be communicated and understood at all levels of the organization.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.2.2 The Executive in Charge of Software Quality**
 
 The executive responsible for software quality issues holds various responsibilities, including defining quality policies, setting SQA objectives, preparing annual SQA activity programs and budgets, and advocating for SQA issues to executive management.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.2.3 Management Review**
 
@@ -68,7 +68,7 @@ Management reviews are periodic meetings dedicated to quality issues. These revi
 
 Typical items included in management review reports are presented in Frame 4.4, and the main objectives of management reviews are to ensure compliance with quality policies, assess SQA system performance, initiate improvements, and guide future actions. Decisions made during these reviews shape the operation of the SQA system until the next review.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
