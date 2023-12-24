@@ -12,3 +12,5 @@
   * [Chapter 9](book/chapter-9.md)
   * [Chapter 11](book/chapter-11.md)
 * [Lecture 1](lecture-1.md)
+* [Chapter 21](chapter-21.md)
+* [Reviews](reviews.md)

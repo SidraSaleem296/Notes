@@ -178,6 +178,50 @@ By incorporating these measures, the software maintenance department can signifi
 
 
 
+**Summary of Chapter**
+
+#### 1. Components of the SCR (Software Change Request) 📝
+
+* **Change Principles** 🎯:\
+  Goals of the change, its expected contribution, and urgency.
+* **Change Details** 🔍:\
+  Description of required change, affected software configuration items, and potential impacts on development schedules and customer service.
+* **Change Schedule and Resources Estimates** 📅💰:\
+  Implementation schedule, required resources, and cost estimates.
+
+#### 2. Main Tasks of Software Change Control Committee 🧑‍💼
+
+* **Examine SCRs** 🔎:\
+  Reviewing software change requests.
+* **Approve SCR and Issue SCOs** ✅:\
+  Approving requests and issuing Software Change Orders.
+* **Follow-up and Control Requested Changes** 🔄:\
+  Monitoring and managing changes.
+* **Quality Assurance of Software Changes** 🛠️:\
+  Ensuring high-quality standards in changes.
+
+#### 3. SCC (Software Change Control) Function in the Organization 🏢
+
+* **SCC Committee Assignment** 🧑‍🔧:\
+  Assigned by management, including a Change Control Board (SCCB) or Authority (SCCA).
+* **Ad Hoc Members** 👥:\
+  Project managers and customer representatives for specific issues.
+* **SCC Activities Supported by Procedures** 📖:\
+  Defined processes for SCR submission and committee activities.
+
+#### 4. SQA (Software Quality Assurance) Unit Reviews and Audits of SCC 📊
+
+* **Review of Change Control Procedures** 📑:\
+  Evaluating existing procedures.
+* **Initiation of Changes in SCC Procedures** 🔄:\
+  Suggesting improvements and revisions.
+* **Performance Reviews of SCC Committee** 📈:\
+  Assessing the committee's effectiveness.
+* **Reviews of SCC Decisions on Approvals and Rejections** 👍👎:\
+  Evaluating the decision-making process.
+* **Auditing of SCO Implementation** 🧐:\
+  Inspecting the execution of Software Change Orders.
+
 
 
 

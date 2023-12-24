@@ -32,7 +32,7 @@ _**Section 2:**_
 * Evaluating financial damages from software failures to adjust the SQA budget.
 * Assessing plans for SQA activity changes or investments in infrastructure.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 🔍 Managerial control over CoSQ involves comparing actual performance with budgets, previous failure costs, previous project quality costs, and costs from other departments.
 
@@ -122,7 +122,7 @@ The scope of the Cost of Software Quality (CoSQ) as a part of overall software p
 
 **Table 9.1: CoSQ According to CMM Levels**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * CMM Level 1: CoSQ is 60% of total software product costs, with prevention costs accounting for 2%, appraisal costs for 4%, internal failure costs for 22%, and external failure costs for 32%.
 * CMM Level 2: CoSQ is 57% of total software product costs, with prevention costs accounting for 2%, appraisal costs for 10%, internal failure costs for 25%, and external failure costs for 20%.
@@ -134,7 +134,7 @@ These results indicate that organizations with higher SQA levels tend to have a 
 
 **Table 9.2: CoSQ for American and European Projects (Averages)**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * American Software Development Projects: CoSQ averages 57.5% of total software product costs, with prevention costs accounting for 13.5%, appraisal costs for 16%, and internal and external failure costs for 28%.
 * European Software Development Projects: CoSQ averages 67.7% of total software product costs, with prevention costs accounting for 8.7%, appraisal costs for 26.3%, and internal and external failure costs for 32.7%.
