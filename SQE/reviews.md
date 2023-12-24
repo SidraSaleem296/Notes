@@ -149,7 +149,7 @@
   * Maintenance expert.
   * User representative.
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

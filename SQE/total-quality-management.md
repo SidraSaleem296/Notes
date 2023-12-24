@@ -15,11 +15,11 @@
 * **Key Figures** 🤝: American experts like Dr. W. Edwards Deming contributed to Japan's Training Within Industry (TWI) program, emphasizing statistical control methods.
 * **Approaches Introduced** 🔁: Implementation of the PDCA cycle and a focus on continuous improvement in production processes.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **📈 TQM's Rise in Popularity**
 
@@ -30,11 +30,11 @@
 
 #### Seven Basic Quality Tools 🛠️
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 **Fishbone Diagram (Cause-and-Effect Diagram) 🐟**
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **Structure of the Fishbone Diagram 🖼️**
 
@@ -48,7 +48,7 @@
 * **Example Scenario** 💼: In IT and Software Engineering, attrition can disrupt project teams.
 * **Project Manager's Challenge** 👩‍💼: Demonstrating how severe attrition affects a project, underscoring the need for strong project management skills.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -74,7 +74,7 @@
 
 * **Histogram Limitation** 📉: While histograms show range, they don't provide the exact number of causes.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -96,7 +96,7 @@
 
 #### Scatter Plot 📌
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 **📊 Visualizing Relationships with Scatter Plots**
 
@@ -121,7 +121,7 @@
 
 **Understanding Flow Charts**
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 * **Visual Tool** 🛠️: Flow Charts are graphical representations of processes or workflows.
 
@@ -152,7 +152,7 @@
 
 #### CheckSheet 📝
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 **Overview of CheckSheet**
 
@@ -183,7 +183,7 @@
 
 #### Control Chart 📊
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 **Overview of Control Charts**
 
@@ -222,9 +222,9 @@
 
 #### Histogram 📊
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 **Overview of Histograms**
 

@@ -29,7 +29,7 @@
 
 #### Metrics' Required Characteristics 📝
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 **Quality Metrics Characteristics ✨**
 
@@ -96,7 +96,7 @@
 
 #### Analysis of Metrics Data by the Corrective Action Board (CAB) 📈
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 * **Role of CAB**: Analyze metrics results as a crucial part of the SQA process.
 * **Tools Used**: Statistical methods to identify significant outcomes.
@@ -106,7 +106,7 @@
 
 #### Taking Action in Response to Metrics Analysis Results 🛠️
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **Comparative Analysis 📉**
 
@@ -192,23 +192,23 @@
 
 **Resource Measures( Entities )**
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 **Product Measures( Entities )**
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Thousands Off Lines of Code (KLOC):
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -235,7 +235,7 @@ Thousands Off Lines of Code (KLOC):
 \
 
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -264,7 +264,7 @@ Thousands Off Lines of Code (KLOC):
 
 #### Function-Oriented Metrics 📈
 
-<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 **Information Domain Characteristics 🖥️**
 
@@ -280,37 +280,37 @@ Thousands Off Lines of Code (KLOC):
 * **Complexity Assessment**: Assigning complexity values (simple, average, complex) to each count.
 * **Function Points Calculation**: Using counts and weighting factors to determine function points.
 
-<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 \
 
 
-<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
