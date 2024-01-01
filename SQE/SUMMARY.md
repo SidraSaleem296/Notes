@@ -21,3 +21,4 @@
 * [Configuration](configuration.md)
 * [Contract Reviews](contract-reviews.md)
 * [Software Change Control](software-change-control.md)
+* [Establishing SQA Processes and Their Coordination with Relevant Software Processes](establishing-sqa-processes-and-their-coordination-with-relevant-software-processes.md)
