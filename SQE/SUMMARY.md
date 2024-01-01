@@ -20,3 +20,4 @@
 * [Requirement and SQA](requirement-and-sqa.md)
 * [Configuration](configuration.md)
 * [Contract Reviews](contract-reviews.md)
+* [Software Change Control](software-change-control.md)
