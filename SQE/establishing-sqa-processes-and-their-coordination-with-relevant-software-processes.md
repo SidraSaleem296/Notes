@@ -136,6 +136,19 @@ Key components:
 * QA team handles Verification; Testing team collaborates with QA for Validation.
 * Verification precedes Validation in the testing cycle.
 
+1. **SCC** - Software Change Control
+   * **Details**: The process of managing and controlling changes in software development projects.
+2. **SCR** - Software Change Request
+   * **Details**: A formal proposal to modify software, detailing the requested changes.
+3. **SQA** - Software Quality Assurance
+   * **Details**: Activities ensuring software processes and products meet established quality standards.
+4. **IEEE** - Institute of Electrical and Electronics Engineers
+   * **Details**: A professional association setting standards in various technology fields, including software engineering.
+5. **SQAP** - Software Quality Assurance Plan
+   * **Details**: A document outlining the approach to ensure software quality throughout a project.
+6. **QA** - Quality Assurance
+   * **Details**: Activities ensuring quality in processes, services, or products.
+
 \
 
 
