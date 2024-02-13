@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Fundamentals of Software Testing](README.md)
