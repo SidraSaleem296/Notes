@@ -2,4 +2,4 @@
 
 * [Fundamentals of Software Testing](README.md)
 * [Static Test](static-test.md)
-* [Page 1](page-1.md)
+* [Levels of Testing](levels-of-testing.md)
