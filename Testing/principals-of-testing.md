@@ -1,6 +1,6 @@
 # Principals of Testing
 
-#### 📚 **Principles of Testing - Lecture 3 Overview** 📚
+#### 📚 **Principles of Testing**&#x20;
 
 ***
 
