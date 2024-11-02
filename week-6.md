@@ -46,6 +46,8 @@
    * _Example_: A network with many open connections may have a high likelihood of attacks.
 2. **Risk Rating**: Calculate using values assigned to assets and vulnerabilities to determine **risk scores**.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### **🔢 Risk Determination Formula**
@@ -59,6 +61,8 @@ For assessing risks, you may calculate **Relative Risk Factor (RRF)**:
 > **Example**: If an asset is valued at 50 with a likelihood of 1.0, the risk score is 50.
 
 ***
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **🛡️ Risk Control Strategies**
 
